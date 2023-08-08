@@ -1,8 +1,9 @@
-<h1 align="center">Hello, I'm Prajwal Devadiga</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prajwal Devadiga</h1>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/prajwal-s-devadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-s-devadiga" height="30" width="40" /></a>
 <a href="https://instagram.com/imprjde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imprjde" height="30" width="40" /></a>
 </p>
 
